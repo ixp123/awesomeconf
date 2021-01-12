@@ -1,7 +1,7 @@
 # awesomeconf
 
 Required applications:
-#rave Browser Beta
+Brave Browser Beta
 Nitrogen
 Picom (edit the config if you're using compton)
 dmenu
